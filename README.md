@@ -6,7 +6,7 @@ I use almost the same configuration as the authors of ResNet used. The errors (%
 Gate type | n = 3 (20 layers) | n = 9 (56 layers)
 :---: | :---: | :---: |
 Residual | 9.3 | 7.8 |
-Highway | 0.911 | coming soon
+Highway | 9.11 | coming soon
 Myway | coming soon | coming soon
 
 
