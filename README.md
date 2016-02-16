@@ -10,7 +10,7 @@ Highway | 9.11 | coming soon
 Myway | coming soon | coming soon
 
 
-The code features convenient wrappers for feedforward, convolution, batchnorm layers and other, less elegant layer types. It can be run on one or multiple GPUs. The code is developed based on the latest Tensorflow source code (not the stable release).
+The code features convenient wrappers for feedforward, convolution, batchnorm layers and other, less elegant layer types. It can be run on one or multiple GPUs. I used the latest Tensorflow source code (not the stable release).
 
 
 ## TODO: 
