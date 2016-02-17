@@ -17,6 +17,7 @@ The code features convenient wrappers for feedforward, convolution, batchnorm la
 - More explanation in README
 - Refactor and documentation
 - Switch back to the default Tensorflow way of handling program arguments
+- Clean up and upload test code
 
 ## Acknowledgement:
 The code is developed and tested using a Titan Z card generously donated to me by NVIDIA.
