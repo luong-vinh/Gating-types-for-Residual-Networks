@@ -6,7 +6,7 @@ The system currently implements 3 types of gate:
 - Highway: T(x) * H(x) + (1 - T(x)) * x 
 - Myway: T(x) * H(x) + C(x) * x.
 
-I use almost the same configuration as the authors of ResNet used. The errors (%) of each gate type on the test set are as followed:
+I use almost the same configuration as the authors of ResNet used. However, in the case of 56-layer network, Highway and Myway gates' losses become very big initially with momentum. I have to switch to ADAM instead.  The errors (%) of each gate type on the test set are as followed:
 
 Gate type | n = 3 (20 layers) | n = 9 (56 layers)
 :---: | :---: | :---: |
